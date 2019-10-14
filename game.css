@@ -1,0 +1,6 @@
+body {
+    padding-top: 5rem;
+    background-image: url(../RPG-Game/assets/images/characters/Star_Wars_startPage.jpg);
+    background-size: cover;
+    background-position-y: 135px
+}
